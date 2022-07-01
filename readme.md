@@ -1,3 +1,3 @@
 # Example of Project 
 
-some button and endlees loader
+some button and endless loader
